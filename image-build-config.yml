@@ -1,0 +1,6 @@
+source: 
+  git:
+    url: https://github.com/sreeramsunkara/pb-accounts-service.git
+    revision: master
+image:
+  tag: sreeramsunkara/pb-accounts-service
